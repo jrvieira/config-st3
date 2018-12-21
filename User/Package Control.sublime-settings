@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ANSIescape",
+		"Color Highlight",
+		"Package Control",
+		"SublimeCodeIntel",
+		"Theme - Spacegray",
+		"zero-dark"
+	]
+}

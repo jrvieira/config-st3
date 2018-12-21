@@ -1,0 +1,5 @@
+{
+  "enable_ghc_mod": false,
+  "enable_hdevtools": true,
+  "add_to_PATH": [ "/usr/local/bin/cabal" ]
+}
