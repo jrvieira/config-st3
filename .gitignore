@@ -10,3 +10,4 @@ __pycache__
 todo.txt
 Projects/
 oscrypto-ca-bundle.crt
+.cache
