@@ -7,8 +7,10 @@
 	[
 		"ANSIescape",
 		"Color Highlight",
+		"ColorSchemeEditor",
 		"Package Control",
 		"SublimeCodeIntel",
+		"SublimeHaskell",
 		"Theme - Spacegray",
 		"zero-dark"
 	]

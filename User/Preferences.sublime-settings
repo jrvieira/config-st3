@@ -3,8 +3,7 @@
 	"caret_extra_top": 0,
 	"caret_extra_width": 0,
 	"caret_style": "solid",
-	"color_scheme": "Packages/zero-dark/zero-dark/seaweed-js-preview.tmTheme",
-	"ensure_newline_at_eof_on_save": true,
+	"color_scheme": "Packages/zero-light/zero-light.sublime-color-scheme",
 	"font_face": "Source Code Pro",
 	"font_size": 10,
 	"highlight_line": true,
@@ -12,7 +11,11 @@
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"tab_size": 3,
-	"theme": "Spacegray Eighties.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"theme": "zero-light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true
 }
